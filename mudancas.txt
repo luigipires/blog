@@ -1,3 +1,0 @@
-phpmailer
-
-*lembrar que a redefinição de senha deve dar unset na session token*
