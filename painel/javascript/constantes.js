@@ -1,0 +1,1 @@
+var include_path_painel = $('base').attr('base');
